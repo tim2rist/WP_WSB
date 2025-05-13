@@ -1,0 +1,13 @@
+.control-section-automobile-hub h3.accordion-section-title {
+    color: #f54114 !important;
+    border-left: none !important;
+    border-right: none !important;
+}
+a.button.button-secondary.alignright{
+    background: #151515;
+}
+#accordion-section-automobile_hub_section_pro a.button.button-secondary.alignright,
+#accordion-section-automobile_hub_documentation a.button.button-secondary.alignright{
+    background: #f54114;
+    color: #fff;
+}
